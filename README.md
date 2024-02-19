@@ -51,9 +51,7 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
     <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=white" />
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
     <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power%20Automate-7DC855?&style=for-the-badge&logo=Power%20Automate&logoColor=white" />  
- 
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Power%20Automate-7DC855?&style=for-the-badge&logo=Power%20Automate&logoColor=white" />   
 </div>
 
 ## Cloud Platforms
