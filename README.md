@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-I'm a solutions architect (read: cloud engineer masquerading as a sales engineer) having fun building technology projects.
+I'm a solutions architect (read: cloud engineer masquerading as a sales engineer) having fun building technology.
 
 ### 🌐 Connect with me:
 
