@@ -15,9 +15,9 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
   <br>
   **Security:** NGFW, SIEM, NAC, SaSE, EDR/XDR, Incident Response, Compliance
   <br>
-  **Networking:** Enterprise routing/switching, ISP/MSP networking, datacenter operations, SDWAN, MPLS/VPLS
+  **Networking:** ISP/MSP networking, datacenter operations, SDWAN, MPLS/VPLS
   <br>
-  **Containerization:** Kubnernates orchestration (K8s, K3s), Containerizing inhouse apps (Docker)
+  **Containerization:** Orchestration (K8s, K3s), Containerizing inhouse apps (Docker)
   <br>
   **Virtualization:** KVM, ReH, Hyper-V, vSphere 6.0 - 8.x, vSAN, VEEAM Suite
   <br>
@@ -40,11 +40,10 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
 <div>
     <img src="https://img.shields.io/badge/-SSMS-CC2927?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20SQL%20Database-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20SQL-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Data%20Lake-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=white" />  
 </div>    
 
 ## Automation
@@ -61,8 +60,8 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
 <div>
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Oracle%20Cloud-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linode-00A95C?&style=for-the-badge&logo=Linode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" />
     <img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?&style=for-the-badge&logo=Digital%20Ocean&logoColor=white" />
@@ -79,9 +78,7 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
 ## Endpoint Management
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware%20Horizon-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike-FF8200?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SentinelOne-000000?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-Carbon%20Black-000000?&style=for-the-badge&logo=Carbon%20Black&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiXDR-003366?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cylance-005A2B?&style=for-the-badge&logo=Cylance&logoColor=white" />
@@ -108,7 +105,6 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
     <img src="https://img.shields.io/badge/-Fortinet-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo%20Alto-005B94?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-PFsense-333333?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Extreme%20Networks-004C7D?&style=for-the-badge&logo=Extreme%20Networks&logoColor=white" />
 </div>
 
 <br>
@@ -117,13 +113,12 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
 ### 📘 Next Projects
 
 <br>
--- Remnux, Flare, Metasploit deployed for a malware analysis lab  
+-- Deploy Remnux, Flare, Metasploit, for malware analysis  
 <br>
 -- Compare monitoring, BI, and orchestration technologies (Grafana Loki, Prometheus, Hugnin & Munin, PRTG)  
 <br>
 -- Global anycast authoritative DNS servers  
 <br>
--- Build an AI model trained on my personal AD/AZAD enviornment that can forcast change impact and auto remediate issues  
+-- Build an AI model to forcast change impact and auto remediate issues in Azure
 <br>
--- Get as close to ZTP Fortigate Firewalls as possible using Ansible + Jinja + Fortimanager
-
+-- Use Jinja + Ansible to automate FortiManager tasks
