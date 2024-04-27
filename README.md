@@ -8,35 +8,11 @@ I'm a solutions architect (read: cloud engineer masquerading as a sales engineer
 
 ### 🎓 Summary
 
-**Cloud Infrastructure:**
-
-- Azure
-- AWS
-- Oracle
-
-**Programming:**
-
-- Python
-- Ansible
-- Terraform
-
-**Security:**
-
-- Appliances
-- Incident Response
-- Compliance
-
-**Networking:**
-
-- ISP/MSP
-- Datacenter
-- Enterprise
-
-**Networking:**
-
-- Hypervisors
-- Containerization
-- Orchestration
+| **Cloud:** | **Programming:** | **Security:** | **Networking:** | **Systems** | **AI/ML:** |
+| --- | --- | --- | --- | --- | --- |
+| Azure | Python | Appliances | ISP/MSP | Hypervisors | Machine Learning |
+| AWS | Ansible | Incident Response | Datacenter | Containerization | Data Analytics |
+| Oracle | Terraform | Compliance | Enterprise | Orchestration | Statistical/Symbolic AI |
 
 <br>
 
